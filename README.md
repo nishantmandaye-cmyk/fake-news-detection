@@ -3,7 +3,7 @@
 A machine learning project that detects fake news articles using NLP and multiple classification algorithms.
 
 ## 🔗 Live Demo
-[Click here to try the app](#) ← update this after Streamlit deployment
+[Click here to try the app](https://fake-news-detection-qvpyrat3kxe8qwsf2zhwx5.streamlit.app/)
 
 ## 📊 Results
 
